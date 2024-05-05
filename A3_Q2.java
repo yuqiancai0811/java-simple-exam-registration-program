@@ -6,7 +6,7 @@ public class A3_Q2 {
     public static void main(String[] args) {
         //welcome message
         System.out.println("=======****======****======****======****======****=========");
-        System.out.println("Welcome to Concordia ACSD Exam Registration Program (CAERP): ");
+        System.out.println("Welcome to ACSD Exam Registration Program (CAERP): ");
         System.out.println("=======****======****======****======****======****=========");
         System.out.println();
         System.out.println("Please enter a list of courses having ACSD students:");
