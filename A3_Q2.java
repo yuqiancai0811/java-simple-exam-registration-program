@@ -1,11 +1,4 @@
-// --------------------------------------------------------------------
-// Assignment 3 Question 2
-// Written by: Yuqian Cai (40187954)
-// For COMP 248 Section (EC) – Winter 2023
-// --------------------------------------------------------------------
-//algorithm of question two is on the text file
-//comp_u-248;Soen_G-348;MATH_w-332;sTat_h-228
-//enel_s-325;SOEN_f-287;comp_t-248;COMp_w-248
+
 
 import java.util.Scanner;
 
